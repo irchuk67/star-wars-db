@@ -1,0 +1,14 @@
+.random-planet{
+    width: calc(100% - 6em);
+    margin: 0 3em 0 3em;
+    border-radius: 10px;
+    align-items: center;
+}
+
+.row{
+    margin: 3em;
+}
+
+.col-md-6{
+    border-radius: 10px;
+}

@@ -1,0 +1,21 @@
+.error-indicator{
+    display: grid;
+    grid-template-rows: repeat(4, 1fr) ;
+    align-items: center;
+    justify-content: center;
+    color: #ffbf00;
+}
+.error-indicator img{
+    width: 30%;
+    height: 50%;
+    justify-self: center;
+
+}
+
+.error-indicator span{
+    justify-self: center ;
+}
+.boom{
+    font-size: 25px;
+    grid-row: 2;
+}

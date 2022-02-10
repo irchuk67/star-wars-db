@@ -1,0 +1,7 @@
+.list-group{
+    border-radius: 10px;
+    width: 75%;
+}
+.list-item:hover{
+    background-color: grey;
+}

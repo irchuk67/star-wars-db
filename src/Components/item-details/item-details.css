@@ -1,0 +1,19 @@
+.item-view{
+    display: grid;
+    width: 100%;
+    grid-template-columns: 30% 70%;
+    border-radius: 10px;
+    align-items: center;
+}
+.person-image{
+    width: 75%;
+    grid-column: 1;
+    justify-self: center;
+    border-radius: 10px;
+    margin-top: 1em;
+    margin-bottom: 1em;
+}
+
+.person-info{
+    grid-column: 2;
+}
